@@ -1,0 +1,12 @@
+3.)loss percentage
+
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+   int c,s;
+   double loss;
+   scanf("%d%d",&c,&s);
+   printf("%.2lf",loss);
+   return 0;
+}
